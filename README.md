@@ -13,7 +13,7 @@
 需要先登录账号进去，要不然弄好后再去登录时无法登录的，其实看起来似乎并没有真的破解成功，我账号处于30天试用，不敢保证；
 再补充一句，我几乎不会用这玩意，，，，因为：
 1、深度绑定账号，断网用不了，网络不好（需要富强）打不开
-2、有汉化
+2、汉化暂时没更新上去 估计要等几天
 
 ## main.xxxx.js
 
@@ -37,8 +37,8 @@ if (mainBytes == null || !mainBytes.Equals(result, StringComparison.OrdinalIgnor
 
 也可以直接替换为项目中的文件 
 
-- main.157031b9c4f17398.js 为OSx的文件(已经做了简单的汉化)
-- main.304c864f4d0af6e9.js 为Win的文件(已经做了简单的汉化)
+- main.8068c81c92a7126e.js 为OSx的文件(已经做了简单的汉化)
+- main.e5bf1b91c3997c53.js 为Win的文件(已经做了简单的汉化)
 
 ## FiddlerBackendSDK.dll
 
